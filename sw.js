@@ -1,4 +1,4 @@
-const CACHE_NAME = 'control-inventario-shell-v1';
+const CACHE_NAME = 'control-inventario-shell-v2';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192x192.png', './icon-512x512.png'];
 
 self.addEventListener('install', (event) => {
